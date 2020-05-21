@@ -2,7 +2,7 @@
 
 ```yaml
 dependencies:
-  pressed_opacity_button:
+  storage_contract:
     git:
       url: https://github.com/ampersanda/storage_contract.git
 ```
